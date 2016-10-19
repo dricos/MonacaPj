@@ -17,9 +17,13 @@
 #define BLUEGIGA_CHAR_RX_UUID                         "AF20fBAC-2518-4998-9AF7-AF42540731B3"
 
 // RBL Service
-#define RBL_SERVICE_UUID                         "713D0000-503E-4C75-BA94-3148F18D941E"
-#define RBL_CHAR_TX_UUID                         "713D0002-503E-4C75-BA94-3148F18D941E"
-#define RBL_CHAR_RX_UUID                         "713D0003-503E-4C75-BA94-3148F18D941E"
+//#define RBL_SERVICE_UUID                         "713D0000-503E-4C75-BA94-3148F18D941E"
+//#define RBL_CHAR_TX_UUID                         "713D0002-503E-4C75-BA94-3148F18D941E"
+//#define RBL_CHAR_RX_UUID                         "713D0003-503E-4C75-BA94-3148F18D941E"
+
+#define RBL_SERVICE_UUID                         "27ADC9CA-35EB-465A-9154-B8FF9076F3E8"
+#define RBL_CHAR_TX_UUID                         "27ADC9CC-35EB-465A-9154-B8FF9076F3E8"
+#define RBL_CHAR_RX_UUID                         "27ADC9CB-35EB-465A-9154-B8FF9076F3E8"
 
 // Adafruit BLE
 // http://learn.adafruit.com/getting-started-with-the-nrf8001-bluefruit-le-breakout/adding-app-support
